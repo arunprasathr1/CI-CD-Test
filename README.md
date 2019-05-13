@@ -1,4 +1,3 @@
 # CI-CD-Test
-Testing purpose
-anew
+Testing purpos
 friend
