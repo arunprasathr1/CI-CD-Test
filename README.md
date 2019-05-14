@@ -1,2 +1,2 @@
 # CI-CD-Test
-Testing purposej
+Testing purpose
